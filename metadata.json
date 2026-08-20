@@ -1,0 +1,6 @@
+{
+  "name": "Logo Animator",
+  "description": "Design and animate your company logo using Gemini and Veo models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
